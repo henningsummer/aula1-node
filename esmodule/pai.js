@@ -3,5 +3,5 @@ console.log('pai');
 }
 // filho();
 // espirito();
-// export default pai;
-module.exports = pai;
+export default pai;
+// module.exports = pai;
