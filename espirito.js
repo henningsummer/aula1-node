@@ -1,4 +1,5 @@
 function espirito(){
     console.log("Espirito");
 }
-export default espirito;
+// export default espirito;
+module.exports = espirito;
