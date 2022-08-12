@@ -1,5 +1,4 @@
-import verNumero from '../ver-numero.js';
-import{soma, subtrair, dividir, multiplicar}from './operacoes.js';
+import{soma, subtrair, dividir, multiplicar, verNumero}from './operacoes.js';
 
 console.log(soma(1, 2));
 console.log(subtrair(3, 4));
